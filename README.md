@@ -6,3 +6,4 @@ LAB01
 LAB02
 - Use case specification
 - Activity diagram
+- File astah của từng digram đều tách riêng
