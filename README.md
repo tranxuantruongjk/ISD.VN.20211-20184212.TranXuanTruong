@@ -6,9 +6,10 @@ LAB01
 LAB02
 - Use case specification
 - Activity diagram
+- File astah của từng digram đều tách riêng
 # LAB03
 LAB03
 Interaction diagram
 - Sequence diagram
 - Communication diagram
-Tất cả các file astah đều trong file Sequence Diagram Place order - Pay order - Place rush order.astah
+- File astah của Sequence diagram và Communication diagram đều trong file Sequence Diagram - Communication Diagram UC Place order - Pay order - Place rush order.asta
