@@ -22,5 +22,7 @@ Lab05 Interface design
 # LAB06
 - Lab06 Class design
 - File astah của Class design đều trong file ClassDesign/Sequence Diagram - Communication Diagram - Class Diagram UC Place order - Pay order - Place rush order and Subsytem Interface.asta
+# LAB07
+- Lab07 Data Modeling
 
 
