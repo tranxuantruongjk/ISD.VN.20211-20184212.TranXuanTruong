@@ -24,5 +24,10 @@ Lab05 Interface design
 - File astah của Class design đều trong file ClassDesign/Sequence Diagram - Communication Diagram - Class Diagram UC Place order - Pay order - Place rush order and Subsytem Interface.asta
 # LAB07
 - Lab07 Data Modeling
+# LAB08
+- Lab08 UnitTest
+* UnitTest: include Test case specification
+* Programming: controller and test code
+
 
 
