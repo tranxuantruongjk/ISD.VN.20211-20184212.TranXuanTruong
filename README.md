@@ -32,6 +32,8 @@ Lab05 Interface design
 - Lab09 Programming
 * Move UnitTest/Programming => Programming and Update some .java files
 * Add Javadoc => doc . Trong file doc, đã bổ sung thêm Javadoc vào App.java, package controller, common.exception, entity.cart
+# LAB10
+- Lab10 Design Concepts
 
 
 
