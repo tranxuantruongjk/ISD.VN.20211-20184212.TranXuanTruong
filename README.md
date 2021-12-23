@@ -34,6 +34,8 @@ Lab05 Interface design
 * Add Javadoc => doc . Trong file doc, đã bổ sung thêm Javadoc vào App.java, package controller, common.exception, entity.cart
 # LAB10
 - Lab10 Design Concepts
+# LAB11
+- Lab11 Design Principles
 
 
 
